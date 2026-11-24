@@ -3,10 +3,10 @@ Régression linéaire sur l'immobilier californien (1990) : préparation des don
 # 🏠 Price-Formation-Analysis
 > Régression linéaire sur l'immobilier californien (1990) : préparation des données brutes, *feature engineering* et interprétation des coefficients pour comparer le poids du revenu (`median_income`) et de la taille des logements (`AveRooms`).
 
-## 🎯 Pourquoi je fais ce projet
+## 🎯 Pourquoi ce projet
 Dépasser l'intuition selon laquelle « plus c'est grand, plus c'est cher ». Mon objectif est de quantifier précisément l'impact de chaque caractéristique sur le prix afin de poser des bases solides en régression linéaire avant d'explorer des modèles plus complexes.
 
-## ❓ Ma question précise
+## ❓ Problematique
 > *« Le revenu médian des habitants d'un quartier pèse-t-il plus lourd que la taille des logements dans la fixation du prix ? »*
 
 ## 📊 Jeu de données et choix techniques
@@ -37,6 +37,6 @@ Pour démontrer ma maîtrise technique et analytique, ce dépôt contient :
    git clone https://github.com/Tresorkitwanda00/Price-Formation-Analysis.git
 2. pip install -r requirements.txt
 3. jupyter lab
-   ```bash
+
    git clone [ton-lien-github]
    cd Price-Formation-Analysis
