@@ -33,5 +33,10 @@ Pour démontrer ma maîtrise technique et analytique, ce dépôt contient :
 
 1. **Cloner le dépôt :**
    ```bash
+
+
+
+2.pip install -r requirements.txt
+
    git clone https://github.com/Tresorkitwanda00/Price-Formation-Analysis.git
    cd Price-Formation-Analysis
